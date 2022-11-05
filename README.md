@@ -24,7 +24,7 @@ A web application that reads a json file , parses the json file, and inserts the
 * After the final presentation, we promised to have a front end that represented the data and to implement a full RESTful api service that would allow the user or client to not only make GET requests, but also use POST, PUT, and DELETE requests.
 
 * Please see the following link below for a screenshot of the features implemented. </br>
-[Features Screenshots](https://github.com/tifflastimosa/Portfolio/blob/main/Quantified%20Self%20Web%20Application/Features-Screenshots.pdf)
+[Features Screenshots](https://github.com/tifflastimosa/QuantifiedSelfWebApp/blob/main/Features-Screenshots.pdf)
 
 ## Assumptions
 
