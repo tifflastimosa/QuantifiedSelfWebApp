@@ -68,7 +68,7 @@ npm install will install and load the dependencies to run the front end.  From t
 
 * Please see javadocs in our project for additional documentation </br>
 
-* REST api Documentation </br>
+* REST Documentation </br>
 [REST Documentation](https://github.com/tifflastimosa/QuantifiedSelfWebApp/blob/main/REST-Documentation.pdf)
 
 
