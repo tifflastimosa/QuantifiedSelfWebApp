@@ -78,7 +78,7 @@ npm install will install and load the dependencies to run the front end.  From t
   * [CodeMR](https://github.com/tifflastimosa/QuantifiedSelfWebApp/blob/main/CodeMR-Report.pdf)
 
 * Testing could be improved in Postman. Postman was a new tool we utilized, and to do the testing we had to learn a little bit of javascript to do so.  For a more detailed report regarding Postman testing, please see the following link. </br>
-  * [Postman REST Testing](https://github.com/tifflastimosa/Portfolio/blob/main/Quantified%20Self%20Web%20Application/Postman-Testing.pdf)</br>
+  * [Postman REST Testing](https://github.com/tifflastimosa/QuantifiedSelfWebApp/blob/main/Postman-Testing.pdf)</br>
   * [Post REST Testing - json](https://github.com/tifflastimosa/Portfolio/blob/main/Quantified%20Self%20Web%20Application/Quantified%20Self%20API%20test.postman_test_run.json)</br>
 
 
