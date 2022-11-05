@@ -75,7 +75,7 @@ npm install will install and load the dependencies to run the front end.  From t
 ## Testing
 * Testing is satisfactory.  Overall, our ending result showed a vast improvement in our CodeMR report from Sprint 2 to the ending product.  We saw improvement of our CodeMR after refactoring and utilizing features from creational patterns such as Builder Pattern and Factory Pattern.  There is much to improve on, however, we are satisfied with our CodeMR report. For a more detailed report regarding CodeMR, please see the following link. </br>
 
-  * [CodeMR](https://github.com/tifflastimosa/Portfolio/blob/main/Quantified%20Self%20Web%20Application/CodeMR-Report.pdf)
+  * [CodeMR](https://github.com/tifflastimosa/QuantifiedSelfWebApp/blob/main/CodeMR-Report.pdf)
 
 * Testing could be improved in Postman. Postman was a new tool we utilized, and to do the testing we had to learn a little bit of javascript to do so.  For a more detailed report regarding Postman testing, please see the following link. </br>
   * [Postman REST Testing](https://github.com/tifflastimosa/Portfolio/blob/main/Quantified%20Self%20Web%20Application/Postman-Testing.pdf)</br>
