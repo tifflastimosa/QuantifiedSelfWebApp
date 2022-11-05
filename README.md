@@ -85,7 +85,7 @@ npm install will install and load the dependencies to run the front end.  From t
 * It is important to note, testing was satisfactory, but revealed the improvements we need to do to make this web application fully featured.  For unit testing, please see the test folder in the quantifiedself project.  Some of our tests failed, but it is important to make note of these tests so that we can use that to revisit our code and do any necessary debugging. </br>
 
 ## System design
-![quantifiedself uml diagram](https://github.com/tifflastimosa/Portfolio/blob/main/Quantified%20Self%20Web%20Application/quantified-self-uml.png)</br>
+![quantifiedself uml diagram](https://github.com/tifflastimosa/QuantifiedSelfWebApp/blob/main/quantified-self-uml.png)</br>
 
    For this project, we implemented the Model View Controller (MVC) design pattern to develop our web application because of the commonality of use for user interface. The model contained entries which contained segments and summaries. The segment contained move segments and place segments, where a move segment is a list of activities. The summaries is a summary of the activities performed for that entry.  In doing this, we created an activities, entries, and place collection.  </br>
 
